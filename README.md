@@ -1,4 +1,4 @@
-Readme carpeta para QT
+Readme carpeta para QT  y link cuaderno
 1. Descargar la carpeta en el repositorio
 2. Abrirla en QT
 3. Para elejir el dataset, se debe ir a la opcion de projects, donde en la ocion de run, command line arguments, se debe agregar al final
@@ -6,3 +6,4 @@ Readme carpeta para QT
 4. Si se desea aplicar otro dataset, se debe cambiar el numero de coumnas, y el % de entrenamiento del dataset, esto se realiza 
    en el archico linearregression.
 5. SI se cumplio con las 4 lineas anteriores, el programa estara preparado para ser ejecutado.
+6. Link cuaderno:  https://colab.research.google.com/drive/1BSAxc3rxuZd18ZNNSkPKAEZ88JTfqWFl?usp=sharing
