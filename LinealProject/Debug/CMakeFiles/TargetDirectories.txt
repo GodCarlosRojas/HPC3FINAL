@@ -1,0 +1,7 @@
+/home/carlos/Documentos/HPC1_2022/LinealProject/Debug/CMakeFiles/LinealProject.dir
+/home/carlos/Documentos/HPC1_2022/LinealProject/Debug/CMakeFiles/edit_cache.dir
+/home/carlos/Documentos/HPC1_2022/LinealProject/Debug/CMakeFiles/rebuild_cache.dir
+/home/carlos/Documentos/HPC1_2022/LinealProject/Debug/CMakeFiles/list_install_components.dir
+/home/carlos/Documentos/HPC1_2022/LinealProject/Debug/CMakeFiles/install.dir
+/home/carlos/Documentos/HPC1_2022/LinealProject/Debug/CMakeFiles/install/local.dir
+/home/carlos/Documentos/HPC1_2022/LinealProject/Debug/CMakeFiles/install/strip.dir
